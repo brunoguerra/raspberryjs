@@ -1,0 +1,1 @@
+console.log(require('electron').remote.getGlobal('crescimentoOnline'))
